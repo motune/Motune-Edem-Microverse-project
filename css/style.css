@@ -1,0 +1,12 @@
+img#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+h1#title{
+    text-align: center;
+}
+#img-div{
+    text-align: center;
+}
