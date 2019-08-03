@@ -4,6 +4,9 @@ img#image{
     display: block;
     margin: auto;
 }
-div#img-div{
-    
+h1#title{
+    text-align: center;
+}
+#img-div{
+    text-align: center;
 }
